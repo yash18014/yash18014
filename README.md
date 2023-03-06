@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **java,python,kotlin**
+- 🌱 I’m currently learning **java,python,AI-ML**
 
 - 💬 Ask me about **luaguages,androiddevelopment**
 
