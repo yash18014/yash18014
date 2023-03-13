@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/yash darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash darji" height="30" width="40" /></a>
 <a href="https://instagram.com/d_yash2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_yash2004" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/darji yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darji yash" height="30" width="40" /></a>
+<a href="https://discord.gg/Dyash#8552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dyash#8552" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
