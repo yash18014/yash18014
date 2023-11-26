@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **java,python,AI-ML**
 
-- 💬 Ask me about **c,c++,java,androiddevelopment,AI**
+- 💬 Ask me about **c,c++,java,DSA,androiddevelopment,AI**
 
 - 📫 How to reach me **yashdarji1801@gmail.com**
 
