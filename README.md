@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **java,python,AI-ML**
+- 🌱 I’m currently learning **java,python,DSA**
 
 - 💬 Ask me about **C,C++,java,DSA,AndroidDevelopment,AI**
 
